@@ -1,0 +1,29 @@
+.wrapper{
+    background: #00b3b3;
+}
+
+h1{
+    text-align: center;
+    background: #e6ffff;
+    font-family: century;
+}
+ul{
+    text-align: center;
+    font-family: century;
+}
+
+li{
+    display:inline-block;
+    font-family: century;
+}
+.game{
+    width:350px;
+    background: black;
+}
+
+.block{
+    display:inline-block;
+    background: grey;
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
