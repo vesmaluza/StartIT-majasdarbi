@@ -17,8 +17,9 @@ li{
     font-family: century;
 }
 .game{
-    width:350px;
-    background: black;
+    width:650px;
+    text-align:center;
+    background: #00b3b3;
 }
 
 .block{
@@ -27,3 +28,4 @@ li{
     width: 100px;
     height: 100px;
     border: 1px solid black;
+}
