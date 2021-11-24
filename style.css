@@ -24,8 +24,12 @@ li{
 
 .block{
     display:inline-block;
-    background: grey;
+    background: #e6ffff;
     width: 100px;
     height: 100px;
     border: 1px solid black;
 }
+.center_Middle{
+    text-align: center;
+}
+
